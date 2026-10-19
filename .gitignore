@@ -1,0 +1,22 @@
+# Private documents and everything derived from them (rebuild with python ingest.py)
+docs/
+chroma_db/
+images/
+unanswered.jsonl
+
+# Local three.js source download (not used by the app; not part of the project)
+three.js-master/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

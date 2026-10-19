@@ -1,0 +1,16 @@
+[
+  {"question": "How do I log in to Teamcenter?", "keywords": ["password"]},
+  {"question": "How do I create a new revision of a part in Teamcenter?", "keywords": ["revise"]},
+  {"question": "How do I save an existing item as a new item in Teamcenter?", "keywords": ["save as"]},
+  {"question": "Who can initiate a release workflow?", "keywords": ["creator"]},
+  {"question": "What happens to the workflow when the checker rejects the task?", "keywords": ["self review"]},
+  {"question": "Are comments required when approving or rejecting a workflow task?", "keywords": ["comment", "mandatory"]},
+  {"question": "How do I export a BOM to Excel?", "keywords": ["excel round trip"]},
+  {"question": "How do I compare two assembly structures in Teamcenter?", "keywords": ["split context"]},
+  {"question": "Which revision rule shows the latest revision of the child parts?", "keywords": ["latest working"]},
+  {"question": "Why does Creo ask me to check out the model before saving a drawing?", "keywords": ["dependent"]},
+  {"question": "Which role do I select in Creo to create models and drawings?", "keywords": ["creator"]},
+  {"question": "What item type is assigned automatically when I create a part in SolidWorks?", "keywords": ["semi-finished component"]},
+  {"question": "What is the capital of France?", "unanswerable": true},
+  {"question": "How do I configure the company payroll system?", "unanswerable": true}
+]
